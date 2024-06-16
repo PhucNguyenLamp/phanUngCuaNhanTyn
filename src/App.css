@@ -1,0 +1,12 @@
+#root {
+  /* max-width: 1280px; */
+  padding: 1em;
+}
+
+.logo {
+  height: 6em;
+}
+
+.name {
+  font-weight: bold;
+}
